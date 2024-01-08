@@ -2,7 +2,7 @@
 - 👀 I’m interested in computing, games and learn all the things about it!
 - 🌱 I’m currently learning HTML5 and CSS.
 - 💞️ I think I'm noob for cooperate, but just for now!
-- 📫 How to reach me
+- 📫 How to reach me: 
   Linkedin: https://www.linkedin.com/in/ilmogau/
   Steam: https://steamcommunity.com/id/xoluR
 
