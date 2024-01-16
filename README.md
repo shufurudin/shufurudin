@@ -24,7 +24,7 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shufurudin&theme=transparent&bg_color=00000040&border_color=FF53B0&show_icons=true&icon_color=A32CC4&title_color=8623A1&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shufurudin&theme=transparent&bg_color=00000040&border_color=FF53B0&show_icons=true&icon_color=A32CC4&title_color=8623A1&text_color=FFF)<br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shufurudin&layout=compact&bg_color=00000040&border_color=FF53B0&title_color=8623A1&text_color=FFF)
 
 <h2 align="center">It's never too late to do the right thing!</h2>
