@@ -13,8 +13,7 @@
 ### Connect with me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-A32CC4?style=for-the-badge&logo=linkedin&logoColor=08539E)](https://www.linkedin.com/in/ilmogau/) 
 [![Steam](https://img.shields.io/badge/steam-8623A1?style=for-the-badge&logo=steam&logoColor=C0C6C7)](https://steamcommunity.com/id/xoluR) 
-[![Perfil DIO](https://img.shields.io/badge/-🔵%20My%20DIO%20Profile-641A78?style=for-the-badge)](https://www.dio.me/users/gabrielk_business) 
-[![Duolingo](https://img.shields.io/badge/Duolingo-42114F?style=for-the-badge&logo=Duolingo&logoColor=58CC02)](https://www.duolingo.com/profile/shufurudin?via=share_profile_link)
+[![Duolingo](https://img.shields.io/badge/Duolingo-641A78?style=for-the-badge&logo=Duolingo&logoColor=58CC02)](https://www.duolingo.com/profile/shufurudin?via=share_profile_link)
 
 ### My Habilities
 ![HTML5](https://img.shields.io/badge/HTML-A32CC4?style=for-the-badge&logo=html5&logoColor=30A3DC)
