@@ -43,12 +43,12 @@
     <tbody>
         <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=html"></td>
-            <td><img src="https://geps.dev/progress/70"></td>
-            <td colspan=3>I'm feling confident with HTML, 7 projects launched made with bare hands!</td>
+            <td><img src="https://geps.dev/progress/73"></td>
+            <td colspan=3>I'm feling confident with HTML, 8 projects launched made with bare hands! Now it's time walk forward in the path, JS here I go!</td>
         </tr>
         <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=css"></td>
-            <td><img src="https://geps.dev/progress/63"></td>
+            <td><img src="https://geps.dev/progress/68"></td>
             <td colspan=3>CSS is a world apart, I thought learning HTML the CSS should grow at the same pase, follish! Well, the same HTML projects have CSS.</td>
         </tr>
         <tr>
