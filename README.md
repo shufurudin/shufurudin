@@ -7,7 +7,7 @@
 🔁 Working hard for change the career!
 
 👀 I’m interested in computing, games and learn all the things about it!<br>
-🌱 I’m currently learning HTML5 and CSS.<br>
+🌱 I’m currently learning JS and Angular.<br>
 💞️ I think I'm noob for cooperate, but just for now!
 
 ### Connect with me!
@@ -58,12 +58,13 @@
         </tr>
         <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=js"></td>
-            <td><img src="https://geps.dev/progress/5"></td>
-            <td rowspan=2 colspan=3>I only saw those languages on my Angular course, just for have start point. JS and TS is my next step, but only when I get a good shape with HTML and CSS!</td>
+            <td><img src="https://geps.dev/progress/15"></td>
+            <td colspan=3> I'm learning the basic like the elementary function (still not about arrow, callback and these stuffs), arrays, loops, some methods, DOM manipulation and objects. For now I don't have a project to share...</td>
         </tr>
         <tr>
             <td align="center"><img src="https://skillicons.dev/icons?i=ts"></td>
             <td><img src="https://geps.dev/progress/5"></td>
+            <td colspan=3>I only saw TS on my Angular course, it will my next step together with Angular.</td>
         </tr>
         <tr>
             <th colspan=5>Language</th>
